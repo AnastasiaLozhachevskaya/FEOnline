@@ -1,0 +1,58 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background-color: #EEEEEE;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 5px 0;
+
+
+}
+
+ul{
+    padding-left: 55px;
+}
+
+.center{
+    margin: 0 auto;
+    display: block;
+
+
+}
+.wrapper {
+    padding: 30px;
+    box-sizing: border-box;
+    width: 600px;
+    background-color: white;
+    margin-top: 5px;
+    -webkit-box-shadow: 0 0 15px -5px;
+    -moz-box-shadow: 0 0 15px -5px;
+    box-shadow: 0 0 15px -5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.center {
+    width: 300px;
+    margin: 20px auto ;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+p, a {
+    margin-left: 20px;
+}
