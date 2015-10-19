@@ -21,6 +21,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 ul{
     padding-left: 55px;
+    line-height: 30px;
 }
 
 .center{
@@ -55,4 +56,8 @@ hr {
 
 p, a {
     margin-left: 20px;
+}
+
+.margin {
+    margin-bottom: 30px;
 }
